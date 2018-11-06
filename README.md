@@ -1,5 +1,5 @@
 # powerbi-open-data
 Modelos de datos Power BI para fuentes de datos abiertas
 
-## [open-data-bcn](open-data-bcn)
-Modelos de datos creados a partir del catáogo de datos abiertos del Ajuntamiento de Barcelona, [Open Data BCN](http://opendata-ajuntament.barcelona.cat).
+## [El meu barri](el-meu-barri)
+Modelo de datos Power BI para visualizar el estado de los servicios en los barrios de Barcelona, creado a partir del catáogo de datos abiertos del Ajuntamiento de Barcelona, [Open Data BCN](http://opendata-ajuntament.barcelona.cat).
