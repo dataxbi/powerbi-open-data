@@ -1,5 +1,5 @@
 # El meu barri
-Modelo de datos Power BI para visualizar el estado de los servicios en los barrios de Barcelona, creado a partir del catáogo de datos abiertos del Ajuntamiento de Barcelona, [Open Data BCN](http://opendata-ajuntament.barcelona.cat).
+Modelo de datos Power BI para visualizar el estado de los servicios en los barrios de Barcelona, creado a partir del catálogo de datos abiertos del Ajuntamiento de Barcelona, [Open Data BCN](http://opendata-ajuntament.barcelona.cat).
 
 La visualizacíón está disponible en https://www.dataxbi.com/elmeubarri
 
